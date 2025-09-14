@@ -1,4 +1,0 @@
-def maxFreqSum()
-
-
-print(maxFreqSum())
