@@ -80,7 +80,7 @@ def change_audio(waveform, sample_rate):
     return spec
 
 
-music_genre_app = FastAPI(title='Genre of music')
+music_genre_app = FastAPI(title='Urban sounds')
 
 
 @music_genre_app.post('/predict/')
